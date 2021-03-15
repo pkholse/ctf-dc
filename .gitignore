@@ -2,4 +2,4 @@ cert.pem
 env.py
 *.pyc
 .DS_Store
-
+/venv/
